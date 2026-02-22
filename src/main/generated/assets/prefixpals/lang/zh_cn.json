@@ -1,0 +1,12 @@
+{
+  "prefixpals.clear": "已清理完成喵~",
+  "prefixpals.error.001": "错误代码：001",
+  "prefixpals.help.clear": "/pp clear 清理喵~",
+  "prefixpals.help.help": "/pp help 帮助喵~",
+  "prefixpals.help.info": "/pp info 显示示例喵~",
+  "prefixpals.help.prefix": "/pp prefix <text> 设置前缀喵~",
+  "prefixpals.help.suffix": "/pp suffix <text> 添加后缀喵~",
+  "prefixpals.help.title": "PrefixPals 帮助喵~",
+  "prefixpals.prefix.set": "前缀已设置喵，赶紧发个信息吧~",
+  "prefixpals.suffix.set": "后缀已设置喵，赶紧发个信息吧~"
+}

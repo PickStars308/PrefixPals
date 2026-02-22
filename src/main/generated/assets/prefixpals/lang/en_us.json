@@ -1,0 +1,12 @@
+{
+  "prefixpals.clear": "Cleared successfully, meow~",
+  "prefixpals.error.001": "Error Code: 001",
+  "prefixpals.help.clear": "/pp clear Clear your prefix and suffix, meow~",
+  "prefixpals.help.help": "/pp help Show help menu, meow~",
+  "prefixpals.help.info": "/pp info Show a preview example, meow~",
+  "prefixpals.help.prefix": "/pp prefix <text> Set your prefix, meow~",
+  "prefixpals.help.suffix": "/pp suffix <text> Add a suffix, meow~",
+  "prefixpals.help.title": "PrefixPals Help, meow~",
+  "prefixpals.prefix.set": "The prefix has been set, meow. Hurry up and send a message~",
+  "prefixpals.suffix.set": "The suffix has been set, meow. Hurry up and send a message~"
+}
